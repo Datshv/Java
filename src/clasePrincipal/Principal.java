@@ -13,6 +13,7 @@ public class Principal {
 	
 	public static void main(String[] args) {
 	
+		
 //		//Tipos de variables basicos
 //		String cadenaDePalabras = "Ejemplo";
 //		String cadenaDeNumeros= "121312";
